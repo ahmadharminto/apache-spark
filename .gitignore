@@ -1,0 +1,6 @@
+app-logs/
+output/
+spark-warehouse/
+/**/.DS_Store
+.DS_Store
+.env
